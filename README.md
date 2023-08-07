@@ -27,41 +27,7 @@ _(En caso de que la url del api esté en mantenimiento o no responda, puedes rea
 -  _(1)_ 👁️ Un sistema de log y test que permite ver el flujo del microservicio y testearlo.
 - _(1)_ 📚  Cualquier dependencia o concepto que ayude a la solución del ejercicio, limpieza del código, patrones, estilo de desarrollo y buenas prácticas.
 
-## 📨 **ENTREGA**
 
-- 📁 Se debe entregar el código fuente con los apartados resueltos en el repositorio
-- 🆙 Puedes crear una rama o subirlos a master directamente dentro de `src`
-- ⏱️ El tiempo de desarrollo es de una semana pero mucho mejor si nos lo puedes
-enviar antes. 
-
-## ✅ Se tendra en cuenta
-
-- 🌐 Url con la aplicación desplegada
-    - puedes usar alternativas gratuitas como https://www.back4app.com 
-    - un ejemplo de app documentada https://petstore.swagger.io
-- 📚 Colección postman con una prueba para cada controlador definido.
-    - https://www.postman.com
-    -  https://learn.microsoft.com/es-es/power-apps/developer/data-platform/webapi/use-postman-perform-operations
-
-## ⚠️ **RECUERDA**
-
--  🥷 La evaluación la realizarán nuestros ninja masters
-    - cualquier cosa que les facilite la corrección es bienvenida
-    - evita los mensajes de error, warnings y comentarios que no sean utiles
-- 📜 Según tu calificación, recibirás un diploma de ninja.
-
-## 💡 **CONSEJOS**
-
-- No autogeneres el código con herramientas, puedes buscar y copiar fragmentos de código que te sean utiles, pero siempre entendiendo la lógica de lo que haces
-- La persistencia de datos es mejor hacerla en memoria, recuerda que el corrector no tiene tu cadena de conexion de la bd
-    - https://learn.microsoft.com/es-es/ef/core/providers/in-memory
-- La app deberia poder cargarse en el IDE (nosotros probramos en Visual Studio 2022) y ejecutarla directamente sin tener que modificar nada del código
-- Utiliza git de forma correcta, no subas un fichero comprimido
-    - https://git-scm.com/docs/gittutorial
-    - https://ohshitgit.com
-
-
- ## 👋 !Cualquier cosa no dudes en consultarnos!
 
 
 
