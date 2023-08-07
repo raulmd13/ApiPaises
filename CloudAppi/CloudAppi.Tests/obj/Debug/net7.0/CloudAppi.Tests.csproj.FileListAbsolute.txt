@@ -1,0 +1,24 @@
+C:\Users\Tatos\Desktop\git\b2ff0ab6-65612\CloudAppi\CloudAppi.Tests\bin\Debug\net7.0\CloudAppi.Tests.deps.json
+C:\Users\Tatos\Desktop\git\b2ff0ab6-65612\CloudAppi\CloudAppi.Tests\bin\Debug\net7.0\CloudAppi.Tests.dll
+C:\Users\Tatos\Desktop\git\b2ff0ab6-65612\CloudAppi\CloudAppi.Tests\bin\Debug\net7.0\CloudAppi.Tests.pdb
+C:\Users\Tatos\Desktop\git\b2ff0ab6-65612\CloudAppi\CloudAppi.Tests\obj\Debug\net7.0\CloudAppi.Tests.csproj.AssemblyReference.cache
+C:\Users\Tatos\Desktop\git\b2ff0ab6-65612\CloudAppi\CloudAppi.Tests\obj\Debug\net7.0\CloudAppi.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tatos\Desktop\git\b2ff0ab6-65612\CloudAppi\CloudAppi.Tests\obj\Debug\net7.0\CloudAppi.Tests.AssemblyInfoInputs.cache
+C:\Users\Tatos\Desktop\git\b2ff0ab6-65612\CloudAppi\CloudAppi.Tests\obj\Debug\net7.0\CloudAppi.Tests.AssemblyInfo.cs
+C:\Users\Tatos\Desktop\git\b2ff0ab6-65612\CloudAppi\CloudAppi.Tests\obj\Debug\net7.0\CloudAppi.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Tatos\Desktop\git\b2ff0ab6-65612\CloudAppi\CloudAppi.Tests\obj\Debug\net7.0\CloudAppi.Tests.dll
+C:\Users\Tatos\Desktop\git\b2ff0ab6-65612\CloudAppi\CloudAppi.Tests\obj\Debug\net7.0\refint\CloudAppi.Tests.dll
+C:\Users\Tatos\Desktop\git\b2ff0ab6-65612\CloudAppi\CloudAppi.Tests\obj\Debug\net7.0\CloudAppi.Tests.pdb
+C:\Users\Tatos\Desktop\git\b2ff0ab6-65612\CloudAppi\CloudAppi.Tests\obj\Debug\net7.0\ref\CloudAppi.Tests.dll
+D:\Users\Raul\Desktop\global api\b2ff0ab6-65612\CloudAppi\CloudAppi.Tests\bin\Debug\net7.0\CloudAppi.Tests.deps.json
+D:\Users\Raul\Desktop\global api\b2ff0ab6-65612\CloudAppi\CloudAppi.Tests\bin\Debug\net7.0\CloudAppi.Tests.dll
+D:\Users\Raul\Desktop\global api\b2ff0ab6-65612\CloudAppi\CloudAppi.Tests\bin\Debug\net7.0\CloudAppi.Tests.pdb
+D:\Users\Raul\Desktop\global api\b2ff0ab6-65612\CloudAppi\CloudAppi.Tests\obj\Debug\net7.0\CloudAppi.Tests.csproj.AssemblyReference.cache
+D:\Users\Raul\Desktop\global api\b2ff0ab6-65612\CloudAppi\CloudAppi.Tests\obj\Debug\net7.0\CloudAppi.Tests.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Raul\Desktop\global api\b2ff0ab6-65612\CloudAppi\CloudAppi.Tests\obj\Debug\net7.0\CloudAppi.Tests.AssemblyInfoInputs.cache
+D:\Users\Raul\Desktop\global api\b2ff0ab6-65612\CloudAppi\CloudAppi.Tests\obj\Debug\net7.0\CloudAppi.Tests.AssemblyInfo.cs
+D:\Users\Raul\Desktop\global api\b2ff0ab6-65612\CloudAppi\CloudAppi.Tests\obj\Debug\net7.0\CloudAppi.Tests.csproj.CoreCompileInputs.cache
+D:\Users\Raul\Desktop\global api\b2ff0ab6-65612\CloudAppi\CloudAppi.Tests\obj\Debug\net7.0\CloudAppi.Tests.dll
+D:\Users\Raul\Desktop\global api\b2ff0ab6-65612\CloudAppi\CloudAppi.Tests\obj\Debug\net7.0\refint\CloudAppi.Tests.dll
+D:\Users\Raul\Desktop\global api\b2ff0ab6-65612\CloudAppi\CloudAppi.Tests\obj\Debug\net7.0\CloudAppi.Tests.pdb
+D:\Users\Raul\Desktop\global api\b2ff0ab6-65612\CloudAppi\CloudAppi.Tests\obj\Debug\net7.0\ref\CloudAppi.Tests.dll

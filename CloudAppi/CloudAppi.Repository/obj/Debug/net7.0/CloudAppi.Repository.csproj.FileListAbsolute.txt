@@ -1,0 +1,30 @@
+D:\Users\Raul\Desktop\global api\b2ff0ab6-65612\CloudAppi\CloudAppi.Repository\bin\Debug\net7.0\CloudAppi.Repository.deps.json
+D:\Users\Raul\Desktop\global api\b2ff0ab6-65612\CloudAppi\CloudAppi.Repository\bin\Debug\net7.0\CloudAppi.Repository.dll
+D:\Users\Raul\Desktop\global api\b2ff0ab6-65612\CloudAppi\CloudAppi.Repository\bin\Debug\net7.0\CloudAppi.Repository.pdb
+D:\Users\Raul\Desktop\global api\b2ff0ab6-65612\CloudAppi\CloudAppi.Repository\bin\Debug\net7.0\CloudAppi.Models.dll
+D:\Users\Raul\Desktop\global api\b2ff0ab6-65612\CloudAppi\CloudAppi.Repository\bin\Debug\net7.0\CloudAppi.Models.pdb
+D:\Users\Raul\Desktop\global api\b2ff0ab6-65612\CloudAppi\CloudAppi.Repository\obj\Debug\net7.0\CloudAppi.Repository.csproj.AssemblyReference.cache
+D:\Users\Raul\Desktop\global api\b2ff0ab6-65612\CloudAppi\CloudAppi.Repository\obj\Debug\net7.0\CloudAppi.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Raul\Desktop\global api\b2ff0ab6-65612\CloudAppi\CloudAppi.Repository\obj\Debug\net7.0\CloudAppi.Repository.AssemblyInfoInputs.cache
+D:\Users\Raul\Desktop\global api\b2ff0ab6-65612\CloudAppi\CloudAppi.Repository\obj\Debug\net7.0\CloudAppi.Repository.AssemblyInfo.cs
+D:\Users\Raul\Desktop\global api\b2ff0ab6-65612\CloudAppi\CloudAppi.Repository\obj\Debug\net7.0\CloudAppi.Repository.csproj.CoreCompileInputs.cache
+D:\Users\Raul\Desktop\global api\b2ff0ab6-65612\CloudAppi\CloudAppi.Repository\obj\Debug\net7.0\CloudAppi.Repository.csproj.CopyComplete
+D:\Users\Raul\Desktop\global api\b2ff0ab6-65612\CloudAppi\CloudAppi.Repository\obj\Debug\net7.0\CloudAppi.Repository.dll
+D:\Users\Raul\Desktop\global api\b2ff0ab6-65612\CloudAppi\CloudAppi.Repository\obj\Debug\net7.0\refint\CloudAppi.Repository.dll
+D:\Users\Raul\Desktop\global api\b2ff0ab6-65612\CloudAppi\CloudAppi.Repository\obj\Debug\net7.0\CloudAppi.Repository.pdb
+D:\Users\Raul\Desktop\global api\b2ff0ab6-65612\CloudAppi\CloudAppi.Repository\obj\Debug\net7.0\ref\CloudAppi.Repository.dll
+C:\Users\Tatos\Desktop\git\b2ff0ab6-65612\CloudAppi\CloudAppi.Repository\bin\Debug\net7.0\CloudAppi.Repository.deps.json
+C:\Users\Tatos\Desktop\git\b2ff0ab6-65612\CloudAppi\CloudAppi.Repository\bin\Debug\net7.0\CloudAppi.Repository.dll
+C:\Users\Tatos\Desktop\git\b2ff0ab6-65612\CloudAppi\CloudAppi.Repository\bin\Debug\net7.0\CloudAppi.Repository.pdb
+C:\Users\Tatos\Desktop\git\b2ff0ab6-65612\CloudAppi\CloudAppi.Repository\bin\Debug\net7.0\CloudAppi.Models.dll
+C:\Users\Tatos\Desktop\git\b2ff0ab6-65612\CloudAppi\CloudAppi.Repository\bin\Debug\net7.0\CloudAppi.Models.pdb
+C:\Users\Tatos\Desktop\git\b2ff0ab6-65612\CloudAppi\CloudAppi.Repository\obj\Debug\net7.0\CloudAppi.Repository.csproj.AssemblyReference.cache
+C:\Users\Tatos\Desktop\git\b2ff0ab6-65612\CloudAppi\CloudAppi.Repository\obj\Debug\net7.0\CloudAppi.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tatos\Desktop\git\b2ff0ab6-65612\CloudAppi\CloudAppi.Repository\obj\Debug\net7.0\CloudAppi.Repository.AssemblyInfoInputs.cache
+C:\Users\Tatos\Desktop\git\b2ff0ab6-65612\CloudAppi\CloudAppi.Repository\obj\Debug\net7.0\CloudAppi.Repository.AssemblyInfo.cs
+C:\Users\Tatos\Desktop\git\b2ff0ab6-65612\CloudAppi\CloudAppi.Repository\obj\Debug\net7.0\CloudAppi.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Tatos\Desktop\git\b2ff0ab6-65612\CloudAppi\CloudAppi.Repository\obj\Debug\net7.0\CloudAppi.Repository.csproj.CopyComplete
+C:\Users\Tatos\Desktop\git\b2ff0ab6-65612\CloudAppi\CloudAppi.Repository\obj\Debug\net7.0\CloudAppi.Repository.dll
+C:\Users\Tatos\Desktop\git\b2ff0ab6-65612\CloudAppi\CloudAppi.Repository\obj\Debug\net7.0\refint\CloudAppi.Repository.dll
+C:\Users\Tatos\Desktop\git\b2ff0ab6-65612\CloudAppi\CloudAppi.Repository\obj\Debug\net7.0\CloudAppi.Repository.pdb
+C:\Users\Tatos\Desktop\git\b2ff0ab6-65612\CloudAppi\CloudAppi.Repository\obj\Debug\net7.0\ref\CloudAppi.Repository.dll

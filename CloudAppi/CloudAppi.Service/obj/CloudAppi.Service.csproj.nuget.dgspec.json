@@ -1,0 +1,204 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Users\\Raul\\Desktop\\global api\\ApiPaises\\CloudAppi\\CloudAppi.Service\\CloudAppi.Service.csproj": {}
+  },
+  "projects": {
+    "D:\\Users\\Raul\\Desktop\\global api\\ApiPaises\\CloudAppi\\CloudAppi.Models\\CloudAppi.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Users\\Raul\\Desktop\\global api\\ApiPaises\\CloudAppi\\CloudAppi.Models\\CloudAppi.Models.csproj",
+        "projectName": "CloudAppi.Models",
+        "projectPath": "D:\\Users\\Raul\\Desktop\\global api\\ApiPaises\\CloudAppi\\CloudAppi.Models\\CloudAppi.Models.csproj",
+        "packagesPath": "C:\\Users\\Raul\\.nuget\\packages\\",
+        "outputPath": "D:\\Users\\Raul\\Desktop\\global api\\ApiPaises\\CloudAppi\\CloudAppi.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Raul\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Users\\Raul\\Desktop\\global api\\ApiPaises\\CloudAppi\\CloudAppi.Repository\\CloudAppi.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Users\\Raul\\Desktop\\global api\\ApiPaises\\CloudAppi\\CloudAppi.Repository\\CloudAppi.Repository.csproj",
+        "projectName": "CloudAppi.Repository",
+        "projectPath": "D:\\Users\\Raul\\Desktop\\global api\\ApiPaises\\CloudAppi\\CloudAppi.Repository\\CloudAppi.Repository.csproj",
+        "packagesPath": "C:\\Users\\Raul\\.nuget\\packages\\",
+        "outputPath": "D:\\Users\\Raul\\Desktop\\global api\\ApiPaises\\CloudAppi\\CloudAppi.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Raul\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\Users\\Raul\\Desktop\\global api\\ApiPaises\\CloudAppi\\CloudAppi.Models\\CloudAppi.Models.csproj": {
+                "projectPath": "D:\\Users\\Raul\\Desktop\\global api\\ApiPaises\\CloudAppi\\CloudAppi.Models\\CloudAppi.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Users\\Raul\\Desktop\\global api\\ApiPaises\\CloudAppi\\CloudAppi.Service\\CloudAppi.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Users\\Raul\\Desktop\\global api\\ApiPaises\\CloudAppi\\CloudAppi.Service\\CloudAppi.Service.csproj",
+        "projectName": "CloudAppi.Service",
+        "projectPath": "D:\\Users\\Raul\\Desktop\\global api\\ApiPaises\\CloudAppi\\CloudAppi.Service\\CloudAppi.Service.csproj",
+        "packagesPath": "C:\\Users\\Raul\\.nuget\\packages\\",
+        "outputPath": "D:\\Users\\Raul\\Desktop\\global api\\ApiPaises\\CloudAppi\\CloudAppi.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Raul\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\Users\\Raul\\Desktop\\global api\\ApiPaises\\CloudAppi\\CloudAppi.Models\\CloudAppi.Models.csproj": {
+                "projectPath": "D:\\Users\\Raul\\Desktop\\global api\\ApiPaises\\CloudAppi\\CloudAppi.Models\\CloudAppi.Models.csproj"
+              },
+              "D:\\Users\\Raul\\Desktop\\global api\\ApiPaises\\CloudAppi\\CloudAppi.Repository\\CloudAppi.Repository.csproj": {
+                "projectPath": "D:\\Users\\Raul\\Desktop\\global api\\ApiPaises\\CloudAppi\\CloudAppi.Repository\\CloudAppi.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

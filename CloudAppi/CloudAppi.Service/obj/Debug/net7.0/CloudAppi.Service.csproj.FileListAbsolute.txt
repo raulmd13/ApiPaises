@@ -1,0 +1,34 @@
+D:\Users\Raul\Desktop\global api\b2ff0ab6-65612\CloudAppi\CloudAppi.Service\bin\Debug\net7.0\CloudAppi.Service.deps.json
+D:\Users\Raul\Desktop\global api\b2ff0ab6-65612\CloudAppi\CloudAppi.Service\bin\Debug\net7.0\CloudAppi.Service.dll
+D:\Users\Raul\Desktop\global api\b2ff0ab6-65612\CloudAppi\CloudAppi.Service\bin\Debug\net7.0\CloudAppi.Service.pdb
+D:\Users\Raul\Desktop\global api\b2ff0ab6-65612\CloudAppi\CloudAppi.Service\bin\Debug\net7.0\CloudAppi.Models.dll
+D:\Users\Raul\Desktop\global api\b2ff0ab6-65612\CloudAppi\CloudAppi.Service\bin\Debug\net7.0\CloudAppi.Repository.dll
+D:\Users\Raul\Desktop\global api\b2ff0ab6-65612\CloudAppi\CloudAppi.Service\bin\Debug\net7.0\CloudAppi.Models.pdb
+D:\Users\Raul\Desktop\global api\b2ff0ab6-65612\CloudAppi\CloudAppi.Service\bin\Debug\net7.0\CloudAppi.Repository.pdb
+D:\Users\Raul\Desktop\global api\b2ff0ab6-65612\CloudAppi\CloudAppi.Service\obj\Debug\net7.0\CloudAppi.Service.csproj.AssemblyReference.cache
+D:\Users\Raul\Desktop\global api\b2ff0ab6-65612\CloudAppi\CloudAppi.Service\obj\Debug\net7.0\CloudAppi.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Raul\Desktop\global api\b2ff0ab6-65612\CloudAppi\CloudAppi.Service\obj\Debug\net7.0\CloudAppi.Service.AssemblyInfoInputs.cache
+D:\Users\Raul\Desktop\global api\b2ff0ab6-65612\CloudAppi\CloudAppi.Service\obj\Debug\net7.0\CloudAppi.Service.AssemblyInfo.cs
+D:\Users\Raul\Desktop\global api\b2ff0ab6-65612\CloudAppi\CloudAppi.Service\obj\Debug\net7.0\CloudAppi.Service.csproj.CoreCompileInputs.cache
+D:\Users\Raul\Desktop\global api\b2ff0ab6-65612\CloudAppi\CloudAppi.Service\obj\Debug\net7.0\CloudAppi.Service.csproj.CopyComplete
+D:\Users\Raul\Desktop\global api\b2ff0ab6-65612\CloudAppi\CloudAppi.Service\obj\Debug\net7.0\CloudAppi.Service.dll
+D:\Users\Raul\Desktop\global api\b2ff0ab6-65612\CloudAppi\CloudAppi.Service\obj\Debug\net7.0\refint\CloudAppi.Service.dll
+D:\Users\Raul\Desktop\global api\b2ff0ab6-65612\CloudAppi\CloudAppi.Service\obj\Debug\net7.0\CloudAppi.Service.pdb
+D:\Users\Raul\Desktop\global api\b2ff0ab6-65612\CloudAppi\CloudAppi.Service\obj\Debug\net7.0\ref\CloudAppi.Service.dll
+C:\Users\Tatos\Desktop\git\b2ff0ab6-65612\CloudAppi\CloudAppi.Service\bin\Debug\net7.0\CloudAppi.Service.deps.json
+C:\Users\Tatos\Desktop\git\b2ff0ab6-65612\CloudAppi\CloudAppi.Service\bin\Debug\net7.0\CloudAppi.Service.dll
+C:\Users\Tatos\Desktop\git\b2ff0ab6-65612\CloudAppi\CloudAppi.Service\bin\Debug\net7.0\CloudAppi.Service.pdb
+C:\Users\Tatos\Desktop\git\b2ff0ab6-65612\CloudAppi\CloudAppi.Service\bin\Debug\net7.0\CloudAppi.Models.dll
+C:\Users\Tatos\Desktop\git\b2ff0ab6-65612\CloudAppi\CloudAppi.Service\bin\Debug\net7.0\CloudAppi.Repository.dll
+C:\Users\Tatos\Desktop\git\b2ff0ab6-65612\CloudAppi\CloudAppi.Service\bin\Debug\net7.0\CloudAppi.Models.pdb
+C:\Users\Tatos\Desktop\git\b2ff0ab6-65612\CloudAppi\CloudAppi.Service\bin\Debug\net7.0\CloudAppi.Repository.pdb
+C:\Users\Tatos\Desktop\git\b2ff0ab6-65612\CloudAppi\CloudAppi.Service\obj\Debug\net7.0\CloudAppi.Service.csproj.AssemblyReference.cache
+C:\Users\Tatos\Desktop\git\b2ff0ab6-65612\CloudAppi\CloudAppi.Service\obj\Debug\net7.0\CloudAppi.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tatos\Desktop\git\b2ff0ab6-65612\CloudAppi\CloudAppi.Service\obj\Debug\net7.0\CloudAppi.Service.AssemblyInfoInputs.cache
+C:\Users\Tatos\Desktop\git\b2ff0ab6-65612\CloudAppi\CloudAppi.Service\obj\Debug\net7.0\CloudAppi.Service.AssemblyInfo.cs
+C:\Users\Tatos\Desktop\git\b2ff0ab6-65612\CloudAppi\CloudAppi.Service\obj\Debug\net7.0\CloudAppi.Service.csproj.CoreCompileInputs.cache
+C:\Users\Tatos\Desktop\git\b2ff0ab6-65612\CloudAppi\CloudAppi.Service\obj\Debug\net7.0\CloudAppi.Service.csproj.CopyComplete
+C:\Users\Tatos\Desktop\git\b2ff0ab6-65612\CloudAppi\CloudAppi.Service\obj\Debug\net7.0\CloudAppi.Service.dll
+C:\Users\Tatos\Desktop\git\b2ff0ab6-65612\CloudAppi\CloudAppi.Service\obj\Debug\net7.0\refint\CloudAppi.Service.dll
+C:\Users\Tatos\Desktop\git\b2ff0ab6-65612\CloudAppi\CloudAppi.Service\obj\Debug\net7.0\CloudAppi.Service.pdb
+C:\Users\Tatos\Desktop\git\b2ff0ab6-65612\CloudAppi\CloudAppi.Service\obj\Debug\net7.0\ref\CloudAppi.Service.dll
