@@ -13,7 +13,7 @@ namespace CloudAppi.Testing
         private Mock<ICountriesService> _serviceMock;
         private Mock<ILogger<CountriesController>> _loggerMock;
         private Country CountryForTest;
-        private List<Country> ListOfCountriesForTest = new List<Country>();
+        private List<Country> ListOfCountriesForTest;
 
 
         //Para crear test para el resto de endpoints bastaria con seguir el mismo patron de comprobar todos los resultados posibles
@@ -38,6 +38,7 @@ namespace CloudAppi.Testing
                 Region = "Region for test"
             };
 
+            ListOfCountriesForTest = new List<Country>();
             ListOfCountriesForTest.Add(CountryForTest);
         }
 
@@ -75,7 +76,7 @@ namespace CloudAppi.Testing
             _serviceMock.Setup(s => s.GetCountryByName(It.IsAny<string>())).Returns(CountryForTest);
 
             // Act
-            var Result = _controller.GetAllCountries().Value;
+            var Result = _controller.GetCountry("found").Value;
 
             // Assert
             Assert.IsInstanceOf<Country>(Result);
@@ -88,10 +89,10 @@ namespace CloudAppi.Testing
             _serviceMock.Setup(s => s.GetCountryByName(It.IsAny<string>())).Returns((Country)null);
 
             // Act
-            var actionResult = _controller.GetAllCountries().Result;
+            var actionResult = _controller.GetCountry("not found").Result;
 
             // Assert
-            Assert.IsInstanceOf<NotFoundResult>(actionResult);
+            Assert.IsInstanceOf<NotFoundObjectResult>(actionResult);
         }
     }
 }
