@@ -22,3 +22,15 @@ C:\Users\Tatos\Desktop\git\b2ff0ab6-65612\CloudAppi\CloudAppi.Models\obj\Debug\n
 C:\Users\Tatos\Desktop\git\b2ff0ab6-65612\CloudAppi\CloudAppi.Models\obj\Debug\net7.0\refint\CloudAppi.Models.dll
 C:\Users\Tatos\Desktop\git\b2ff0ab6-65612\CloudAppi\CloudAppi.Models\obj\Debug\net7.0\CloudAppi.Models.pdb
 C:\Users\Tatos\Desktop\git\b2ff0ab6-65612\CloudAppi\CloudAppi.Models\obj\Debug\net7.0\ref\CloudAppi.Models.dll
+D:\Users\Raul\Desktop\global api\ApiPaises\CloudAppi\CloudAppi.Models\bin\Debug\net7.0\CloudAppi.Models.deps.json
+D:\Users\Raul\Desktop\global api\ApiPaises\CloudAppi\CloudAppi.Models\bin\Debug\net7.0\CloudAppi.Models.dll
+D:\Users\Raul\Desktop\global api\ApiPaises\CloudAppi\CloudAppi.Models\bin\Debug\net7.0\CloudAppi.Models.pdb
+D:\Users\Raul\Desktop\global api\ApiPaises\CloudAppi\CloudAppi.Models\obj\Debug\net7.0\CloudAppi.Models.csproj.AssemblyReference.cache
+D:\Users\Raul\Desktop\global api\ApiPaises\CloudAppi\CloudAppi.Models\obj\Debug\net7.0\CloudAppi.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Raul\Desktop\global api\ApiPaises\CloudAppi\CloudAppi.Models\obj\Debug\net7.0\CloudAppi.Models.AssemblyInfoInputs.cache
+D:\Users\Raul\Desktop\global api\ApiPaises\CloudAppi\CloudAppi.Models\obj\Debug\net7.0\CloudAppi.Models.AssemblyInfo.cs
+D:\Users\Raul\Desktop\global api\ApiPaises\CloudAppi\CloudAppi.Models\obj\Debug\net7.0\CloudAppi.Models.csproj.CoreCompileInputs.cache
+D:\Users\Raul\Desktop\global api\ApiPaises\CloudAppi\CloudAppi.Models\obj\Debug\net7.0\CloudAppi.Models.dll
+D:\Users\Raul\Desktop\global api\ApiPaises\CloudAppi\CloudAppi.Models\obj\Debug\net7.0\refint\CloudAppi.Models.dll
+D:\Users\Raul\Desktop\global api\ApiPaises\CloudAppi\CloudAppi.Models\obj\Debug\net7.0\CloudAppi.Models.pdb
+D:\Users\Raul\Desktop\global api\ApiPaises\CloudAppi\CloudAppi.Models\obj\Debug\net7.0\ref\CloudAppi.Models.dll

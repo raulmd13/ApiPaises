@@ -19,7 +19,7 @@ namespace CloudAppi.Service.Helpers
             CreateMap<CountryApiDTO, Country>()
                 .ForMember(
                 dest=> dest.Name,
-                opt => opt.MapFrom(src => $"{src.name}")
+                opt => opt.MapFrom(src => $"{src.name.common}")
                 )
                 .ForMember(
                 dest=> dest.Alpha2Code,

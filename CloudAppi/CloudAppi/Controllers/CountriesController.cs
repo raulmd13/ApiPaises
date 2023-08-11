@@ -26,7 +26,7 @@ namespace CloudAppi.Controllers
             try
             {
                 List<Country> countries = countriesService.GetAllCountries();
-                if (countries == null)
+                if (countries == null || countries.Count == 0)
                 {
                     return NotFound();
                 }

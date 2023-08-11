@@ -40,7 +40,7 @@ namespace CloudAppi.Service
             return JsonSerializer.Deserialize<List<CountryApiDTO>>(responce.ToString());
         }
 
-        public CountryApiDTO GetCountryByName(string name)
+        public virtual CountryApiDTO GetCountryByName(string name)
         {
             var responce = HttpClient.GetStringAsync((UrlBaseCountriesRest + EndpointCountryByNameCountriesRest).Replace("{name}", name)).Result;
             return JsonSerializer.Deserialize<List<CountryApiDTO>>(responce.ToString()).FirstOrDefault();
